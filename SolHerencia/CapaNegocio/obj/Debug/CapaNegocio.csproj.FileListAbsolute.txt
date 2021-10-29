@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\SolHerencia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\user\source\repos\SolHerencia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\user\source\repos\SolHerencia\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SolHerencia\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SolHerencia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\user\source\repos\SolHerencia\CapaNegocio\obj\Debug\CapaNegocio.pdb
